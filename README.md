@@ -1,7 +1,7 @@
 # sample2
 Extended time and date format project
 
-Experimental module for generate time and date intervals for truncated and incomplete times and dates.
+Experimental Drupal 8 module for generate time and date intervals for truncated and incomplete times and dates.
 Useful when we would like to arrange historical events or just if we have a huge amount of old photo :)
 Non eventual version!
 
