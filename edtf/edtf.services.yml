@@ -1,0 +1,5 @@
+services:
+  edtf.title_generator:
+    class: Drupal\edtf\Service\AutoTitle\TitleGenerator
+  edtf.data_generator:
+    class: Drupal\edtf\Service\AutoData\EdtfDataGenerator

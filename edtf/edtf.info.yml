@@ -1,0 +1,7 @@
+name: Extended Datetime
+description: Provide the ability to store non standard void values >> https://www.loc.gov/standards/datetime/edtf.html
+package: Field types
+type: module
+dependencies:
+  - rootofthetree_misc
+core: 8.x
